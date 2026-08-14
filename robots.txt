@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-4njcu8.radarsatu88.shop/sitemap.xml
